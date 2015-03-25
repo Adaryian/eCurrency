@@ -1,0 +1,9 @@
+Building Ecurrency
+
+See doc/readme-qt.rst for instructions on building Ecurrency-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Ecurrency.
+
+See doc/build-*.txt for instructions on building ecurrencyd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Ecurrency.
